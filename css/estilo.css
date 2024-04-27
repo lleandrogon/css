@@ -1,15 +1,9 @@
 @charset "UTF-8";
 
-body {
-    background: red;
-}
-
 h1 {
-    color: blue;
-    font-size: 88px;
+    color: #19a3bb;
 }
 
-h2 {
-    color: darkmagenta;
-    font-size: 100px;
+p {
+    color: red;
 }
